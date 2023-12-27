@@ -12,8 +12,8 @@ configCloudinary();
 server.use(express.json());
 server.use(express.urlencoded({ extended: false }));
 server.use(cors({
-    origin: ["https://accessi-solutions-frontend.vercel.app/", "http://localhost:5173"],
-    credentials: true,
+    origin: ["https://accessi-shop.vercel.app/", "http://localhost:5173"],
+    credentials: true, 
 }));
 
 const ProductRouter = require("./src/api/routes/product.routes");
