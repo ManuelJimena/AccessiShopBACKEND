@@ -2,8 +2,6 @@
 
 ¡Bienvenido al backend de AccessiShop! Este servidor proporciona API endpoints para manejar la lógica de comercio electrónico y la interacción de datos para la plataforma AccessiShop.
 
-![AccessiShop Backend](src/assets/mockuper.webp)
-
 ## 📖 Índice
 
 - [Descripción](#descripción)
